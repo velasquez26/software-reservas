@@ -1,8 +1,4 @@
-"""Software FJ · simulación de 15 operaciones (válidas e inválidas).
 
-Cada paso se ejecuta dentro de `paso()`, que captura cualquier error, lo
-registra en logs/bitacora_fj.log y deja que el programa siga con el siguiente.
-"""
 from fj.bitacora import bitacora
 from fj.catalogo import AlquilerEquipo, AsesoriaTecnica, SalaReuniones
 from fj.errores import ErrorFJ
