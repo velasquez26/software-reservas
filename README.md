@@ -1,7 +1,7 @@
 # Software FJ · Sistema de reservas
 
 Proyecto individual de **Programación (213023) – UNAD, Fase 4**.
-Autor: *TU NOMBRE AQUÍ*
+Autor: Angel Adrian Velasquez Barragan 
 
 Aplicación en Python orientada a objetos, **sin base de datos**, que gestiona clientes,
 servicios y reservas de Software FJ y sigue funcionando aunque ocurran errores.
